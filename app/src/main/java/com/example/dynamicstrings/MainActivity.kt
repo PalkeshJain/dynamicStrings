@@ -11,7 +11,7 @@ class MainActivity : BaseActivity() {
         setContentView(R.layout.activity_main)
 
         val textView: TextView = findViewById(R.id.textView)
-        textView.text = getString(R.string.dynamicText)
+        textView.text = getString(R.string.accept_terms_insurance_document_message)
 
         val staticTextView : TextView = findViewById(R.id.staticTextView)
         staticTextView.text = getString(R.string.staticText)

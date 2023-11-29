@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Dynamic Strings</string>
-    <string name="dynamicText"></string>
+    <string name="accept_terms_insurance_document_message"></string>
     <string name="staticText">This is static text from static res</string>
 </resources>
